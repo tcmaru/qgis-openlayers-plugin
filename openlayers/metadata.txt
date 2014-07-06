@@ -1,6 +1,6 @@
 [general]
 name=OpenLayers Plugin
-qgisMinimumVersion=2.5
+qgisMinimumVersion=2.4
 description=OpenStreetMap, Google Maps, Bing Maps layers and more
 version=1.3.2
 author=Sourcepole and contributors
